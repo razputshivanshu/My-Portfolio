@@ -26,12 +26,12 @@ export const projectsData = [
     {
       id: 3,
       image: Work8,
-      title: "Airline Booking",
-      category: "Back End",
+      title: "Staff Sync",
+      category: "Front End",
     },
     {
       id: 4,
-      image: Work4,
+      image: Work5,
       title: "Social Website",
       category: "Back End",
     },
