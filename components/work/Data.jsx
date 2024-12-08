@@ -25,7 +25,7 @@ export const projectsData = [
     },
     {
       id: 3,
-      image: Work3,
+      image: Work8,
       title: "Airline Booking",
       category: "Back End",
     },
