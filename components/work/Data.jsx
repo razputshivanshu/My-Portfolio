@@ -3,17 +3,23 @@ import Work2 from "../../src/assets/Work2.png";
 import Work3 from "../../src/assets/Work3.png";
 import Work4 from "../../src/assets/Work4.png";
 import Work5 from "../../src/assets/Work5.png";
+import Work6 from "../../src/assets/EdTech.png";
+import Work7 from "../../src/assets/ChatApp.png";
+import Work8 from "../../src/assets/StaffSync.png";
+
+
+
 
 export const projectsData = [
     {
       id: 1,
-      image: Work1,
+      image: Work6,
       title: "Study Notion - Edtech Platform",
       category: "Full Stack",
     },
     {
       id: 2,
-      image: Work2,
+      image: Work7,
       title: "Chat Application",
       category: "Full Stack",
     },
